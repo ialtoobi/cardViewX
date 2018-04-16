@@ -1,6 +1,6 @@
 # cardViewX
 
-an extantion helps iOS Developers to designs CardView like google!
+an extantion helps iOS Developers to designs CardView like Google Card!
 
 Created By: @ialtoobi
 
